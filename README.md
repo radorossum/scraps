@@ -1,1 +1,3 @@
 # scraps
+
+random code ideas
